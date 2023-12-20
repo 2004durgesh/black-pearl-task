@@ -80,8 +80,4 @@ The `QRScanner` screen allows users to scan QR codes using the device's camera. 
 ![QRScanner](./readme-assets/qr.jpg)
 
 ## Video-GIF Demonstration
-
-<video width="640" height="360" controls>
-  <source src="./readme-assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video-GIF](./readme-assets/video.gif)
