@@ -74,14 +74,14 @@ The `QRScanner` screen allows users to scan QR codes using the device's camera. 
 ## Screenshots
 
 <!-- Placeholder for MapScreen Screenshot -->
-![MapScreen](https://github.com/2004durgesh/black-pearl-task/blob/main/readme-assets/map.jpg)
+![MapScreen](./readme-assets/map.jpg)
 
 <!-- Placeholder for QRScanner Screenshot -->
-![QRScanner](https://github.com/2004durgesh/black-pearl-task/blob/main/readme-assets/qr.jpg)
+![QRScanner](./readme-assets/qr.jpg)
 
 ## Video-GIF Demonstration
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/2004durgesh/black-pearl-task/blob/main/readme-assets/video.mp4" type="video/mp4">
+  <source src="./readme-assets/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
