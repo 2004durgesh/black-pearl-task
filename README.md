@@ -85,11 +85,3 @@ The `QRScanner` screen allows users to scan QR codes using the device's camera. 
   <source src="readme-assets\video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-## Acknowledgments
-
-- Mention any third-party libraries or resources used.
-
-
-
-You can replace <repository-url>, path/to/mapscreen-screenshot.png, and path/to/qrcode-screenshot.png with the actual repository URL and screenshot paths when you have them. This structure provides a basic outline for your project documentation.
